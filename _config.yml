@@ -1,0 +1,14 @@
+layout_spectrum: 0.8694872569758445
+typography_spectrum: 0.7413664797786623
+color:
+  brandStrength: 0.023564100032672286
+  lightness: 0.9830279082525522
+  saturation: 0.8024103462230414
+  rhythmicContrast: 0.5186669800896198
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: MGS experimental
